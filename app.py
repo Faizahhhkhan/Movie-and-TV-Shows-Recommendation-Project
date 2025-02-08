@@ -4,7 +4,7 @@ import json
 from streamlit_lottie import st_lottie
 
 # Your TMDb API Key (replace with your own)
-TMDB_API_KEY = 'cbf641a8ac1c68cbdeb959fb4fe4ea75'  # Replace with your own key
+TMDB_API_KEY = '***'  # Replace with your own key
 TMDB_API_URL = "https://api.themoviedb.org/3"
 
 # Function to load Lottie animation from a URL or file
